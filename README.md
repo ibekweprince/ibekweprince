@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Prince Ibekwe
+I am currently learning backend development with PHP at Zuri.
+
+
 <!--
 **ibekweprince/ibekweprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
